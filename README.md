@@ -1,6 +1,6 @@
 # Location Bert - Building Bert from scratch with PyTorch
 
-This is the repository containins the code from
+This repository contains code mainly from
 
 [Building BERT with PyTorch from scratch](https://coaxsoft.com/blog/building-bert-with-pytorch-from-scratch)
 
