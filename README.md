@@ -4,7 +4,7 @@ This repository contains code mainly from
 
 [Building BERT with PyTorch from scratch](https://coaxsoft.com/blog/building-bert-with-pytorch-from-scratch)
 
-Goal is build a BERT model for next location prediction
+The goal is build a BERT model for next location prediction of human mobility trajectory data.
 
 ## Installation
 
